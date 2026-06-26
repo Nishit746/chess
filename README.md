@@ -92,15 +92,6 @@ PGN Output:
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 ...
 ```
 
-## 👨‍💻 Author
-
-**Divyansh Jain**  
-🎓 B.Tech, IIT Kharagpur '27  
-📧 [div0211jain@gmail.com](mailto:div0211jain@gmail.com)  
-🔗 [GitHub Profile](https://github.com/jainDivyansh0211)
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
